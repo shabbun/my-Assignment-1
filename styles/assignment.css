@@ -22,6 +22,10 @@ header{
     padding-top: 30px;
     /* background-color: cornflowerblue; */
 }
+.color-orange{
+    color: #30B868;
+}
+
 nav{
     width: 90%;
     max-width: 1140px;
@@ -60,7 +64,7 @@ nav .manu a{
     color: antiquewhite;
 }
 #banner .text h1{
-    font-size: 900;
+    font-size: boldr;
     color: azure;
 
 }
